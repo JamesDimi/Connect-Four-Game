@@ -1,7 +1,8 @@
 # Connect-Four-Game
 Game that was developed as a project for A.I class in university, using min-max algorithm.
+<br><br>
+<b>Running preview</b>
 <br>
-Example<br>
 X is the Player and O is the Machine-AI:
 <br>
 <img src="https://i.ibb.co/ygz6vfx/1.png" alt="1" border="0" height="500px">
