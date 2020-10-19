@@ -1,5 +1,5 @@
 # Connect-Four-Game
-Game that was developed as a project for A.I class in university, using min-max algorithm.
+Game that was developed as a project for A.I class in university, using the <a href="https://www.youtube.com/watch?v=l-hh51ncgDI">minmax</a> algorithm.
 <br><br>
 <b>Running preview</b>
 <br>
