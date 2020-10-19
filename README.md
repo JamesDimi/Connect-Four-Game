@@ -1,4 +1,5 @@
-# Connect-Four-Game
+# Connect-Four-Game <img src="https://www.thanassis.space/connect-four.jpg" height="50px" width="50px">
+<br>
 Game that was developed as a project for A.I class in university, using the <a href="https://www.youtube.com/watch?v=l-hh51ncgDI">minimax</a> algorithm.
 <br><br>
 <b>Running preview</b>
